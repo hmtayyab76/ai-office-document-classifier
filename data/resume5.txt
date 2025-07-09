@@ -1,0 +1,5 @@
+Nina Patel
+AI/ML Engineer | TensorFlow, PyTorch
+Experience: 2 yrs
+Education: BEng Software
+Projects: NLP Classifier, Vision AI

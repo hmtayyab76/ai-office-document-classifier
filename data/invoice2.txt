@@ -1,0 +1,5 @@
+Invoice No: 001246
+Client: XYZ Ltd
+Service: Design
+Amount Due: $1,200
+Due Date: 2025-08-01

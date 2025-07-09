@@ -1,0 +1,4 @@
+IT Infrastructure Report
+Audit Date: 2025-06-10
+Findings: 3 outdated servers
+Recommendations: Replace by Q3

@@ -1,0 +1,8 @@
+Invoice No: 001245
+Date: 2025-07-01
+Customer: Acme Corp
+Items:
+ - Web Development: $3,000
+ - Maintenance: $500
+Total: $3,500
+Due: 2025-07-15

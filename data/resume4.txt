@@ -1,0 +1,5 @@
+David Smith
+Cybersecurity Analyst
+Experience: Penetration Testing, SOC Ops
+Certs: CEH, CompTIA Sec+
+Education: BSc IT

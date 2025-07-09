@@ -1,0 +1,5 @@
+INVOICE
+Date: 2025-07-05
+Customer: Global Inc.
+Product: Hosting
+Total Due: $700

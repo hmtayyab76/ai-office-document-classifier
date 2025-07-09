@@ -1,0 +1,5 @@
+Invoice #: 98765
+From: ABC Solutions
+To: DEF Enterprises
+Amount: $850
+Payment Terms: Net 15
